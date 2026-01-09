@@ -1,0 +1,5 @@
+{
+  "name": "Kanzlei Grafrath - Document Generator",
+  "description": "Professional invoice and B2B confirmation generator with Smart Import capabilities using Gemini.",
+  "requestFramePermissions": []
+}
